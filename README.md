@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🌱 I’m currently building a React JS -> Django Project for the East Bay community.
+
 <!--
 **sdbeng/sdbeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
