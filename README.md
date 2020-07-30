@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently building a React JS -> Django Project for the East Bay community.
+- 💬 Also thinking about summer in the lake ...
 
 <!--
 **sdbeng/sdbeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
