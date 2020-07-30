@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently building a React JS -> Django Project for the East Bay community.
+- 🌱 I’m also learning a new JS testing library.
 - 💬 Also thinking about summer in the lake ...
 
 <!--
