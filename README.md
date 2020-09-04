@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently building a React JS -> Django Project for the East Bay community.
 - 🌱 I’m also writing Jasmine and Jest unit tests for my company project.
-- 💬 Well, mostly dreaming about summer swimming in the lake ... 🏊‍
+- 💬 Well, mostly dreaming about summer and how awesome was swimming in the lake ... 🏊‍
 
 <!--
 **sdbeng/sdbeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
