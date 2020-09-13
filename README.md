@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently building a React JS -> Django Project for the East Bay community.
-- 🌱 I’m also writing JavaScript and Jest unit tests for my company project.
-- 💬 Well, mostly dreaming about summer and how awesome was swimming in the lake ... 🏊‍
+- 🌱 I’m very happy developing code with Jest unit tests for the MIT bootcamp.
+- 💬 On the weekends, I like to watch a few soccer matches ... ⚽️
 
 <!--
 **sdbeng/sdbeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
