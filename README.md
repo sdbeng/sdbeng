@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m very happy developing code with Jest unit tests for the MIT bootcamp.
+- 🌱 I’m very happy developing code with Jest unit tests for a FS JavaScript Project.
 - 💬 On the weekends, I like to watch a few soccer matches ... ⚽️
 
 <!--
