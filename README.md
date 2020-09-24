@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m very happy developing code with Jest unit tests for a FS JavaScript Project.
-- 💬 On the weekends, I like to watch a few soccer matches ... ⚽️
+- 🌱 I’m very happy developing front end code with Jest unit tests on a FS JavaScript Project.
+- 💬 On the weekends, I like play soccer with my family, and watch my favorite soccer matches ... ⚽️
 
 <!--
 **sdbeng/sdbeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
