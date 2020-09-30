@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m very happy developing front end code with Jest unit tests on a FS JavaScript Project.
+- 🌱 I’m working on a Full Stack project to help small biz and their families in the community.
 - 💬 On the weekends, I like play soccer with my family, and watch my favorite soccer matches ... ⚽️
 
 <!--
