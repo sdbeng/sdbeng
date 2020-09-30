@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m working on a Full Stack project to help small biz and their families in the community.
-- 💬 On the weekends, I like play soccer with my family, and watch my favorite soccer matches ... ⚽️
+- 💬 On the weekends, I like play soccer with my son, and watch my favorite soccer matches ... ⚽️
 
 <!--
 **sdbeng/sdbeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
