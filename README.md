@@ -6,7 +6,7 @@
 
 ### React
 
-- [React docs](https://reactjs.org/docs/getting-started.html) (it’s one of the best resources)
+- [React docs](https://reactjs.org/docs/getting-started.html)
 
 ### HTML
 
