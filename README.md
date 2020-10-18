@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m working on a Full Stack project to help small biz and their families in the community.
-- 📫 I'm also open to building new apps or web projects, first intro meeting w/free consultation - reach me at https://twitter.com/sergb_appdev
+- 🌱 I’m working on a Django-DRF project to help small biz and their families in the community.
+- 📫 I'm open to help build your first API, get you started building apps with a database, first intro meeting goes w/free consultation - reach me at https://twitter.com/sergb_appdev
 - 💬 On the weekends, I like play soccer with my son, and watch my favorite soccer matches ... ⚽️
 
 ### React
