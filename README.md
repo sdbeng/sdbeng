@@ -2,12 +2,12 @@
 
 Happy new year!!! Hope you and your family have a wonderful and prosperous 2021 year!!
 
-** Good news! On Jan 2nd, I'm getting started on my very own #30daysofswiftuicode!! **
+** Good news! On Jan 2nd, I'm getting started on my very own #60daysofswiftuicode!! **
 
-Join me on this journey and learn SwiftUI plus plan to publish it to the App Store
+Join me on this journey and learn SwiftUI plus plan to publish it to the App Store, you're invited!
 
-- 🌱 I’m working on an iOS iPhone App. More updates next weeks.
-- 📫 I'm open to help build your first API, get you started building apps with a database. Reach me at https://twitter.com/sergb_appdev
+- 🌱 I’m working on an iOS iPhone App. Dealing with networking and UI constraints.
+- 📫 I'm open to help build your first API and get you started building apps with a database connection. Reach me at https://twitter.com/sergb_appdev
 - 💬 On the weekends, I like play soccer and chess with my son, spend time with my wife and daugther, watch my favorite soccer matches ... ⚽️
 
 ### React
