@@ -2,6 +2,8 @@
 
 Happy new year!!! Hope you and your family have a wonderful and prosperous 2021 year!! 🙌
 
+** Great news ** We have a new puppy, it's a husky dog 🐶!! My family is so happy, especially my kids 🐾
+
 ** Good news! 01-02-2021: Got started on my very own #60daysofswiftuicode!! ** 🚀
 
 Join me on this journey and learn SwiftUI. The plan is to publish an App to the App Store, you're more than welcome to code with us!! 👍
