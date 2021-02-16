@@ -4,7 +4,7 @@ Happy new year!!! Hope you and your family have a wonderful and prosperous 2021 
 
 ** Great news ** We have a new puppy, it's a husky dog 🐶!! My family is so happy, especially my kids 🐾
 
-** CLick here t [Get hired](https://hired.com/x/18bb6ff08948d93b1f776d38fc7fabb5) 
+** Click here to [Get hired](https://hired.com/x/18bb6ff08948d93b1f776d38fc7fabb5) 📐
 
 ** Good news! 01-02-2021: Got started on my very own #60daysofswiftuicode!! ** 🚀
 
