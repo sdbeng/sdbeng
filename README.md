@@ -12,7 +12,7 @@ Join me on this journey and learn SwiftUI. The plan is to publish an App to the 
 
 - 🌱 While I redesign my web site, I get to work on an iOS iPhone App. Dealing with networking and UI constraints.
 - 📫 I'm open to help build your first Django API and get you started building apps with a database connection. Reach me at https://twitter.com/sergb_appdev
-- 💬 On the weekends, I like to spend time with my wife, daugther and son, play a few games of chess and watch my favorite soccer team ... ⚽️ ⚽️
+- 💬 On the weekends, I like to spend time with my wife, daugther and son, play a few games of chess and play with our little husky 🐾
 
 ### React
 
