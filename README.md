@@ -6,10 +6,10 @@ Happy new year!!! Hope you and your family have a wonderful and prosperous 2021 
 
 ** 01-02-2021: Got started on my very own #60daysofswiftuicode!! ** 🚀
 
-Join me on this journey and learn SwiftUI. The plan is to publish an App to the App Store, you're more than welcome to code with us!! 👍
+Join me on this journey and get started or continue learning SwiftUI. The plan is to publish an App to the App Store, you're more than welcome to code with us!! 👍
 
-- 🌱 While I redesign my web site, I get to work on an iOS iPhone App. Dealing with networking and UI constraints.
-- 📫 I'm open to help build your first Django API and get you started building apps with a database connection. Reach me at https://twitter.com/sergb_appdev
+- 🌱 While I redesign my web site, I get to work on iOS iPhone Apps.
+- 📫 I'm ready to help build your first API (Django, Node, Flask) and get you started connecting your apps with a database connection. Reach me at https://twitter.com/sergb_appdev
 - 💬 On the weekends, I like to spend time with my wife, daugther and son, play a few games of chess and play with our little husky 🐾
 
 ### React
