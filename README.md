@@ -2,7 +2,7 @@
 
 Happy new year!!! Hope you and your family have a wonderful and prosperous 2021 year!! 🙌
 
-** 03-2021: Currently working on a C++ app 📐
+** 03-2021: Currently working on a nextjs e-commerce application 📐
 
 ** 01-02-2021: Got started on my very own #60daysofswiftuicode!! ** 🚀
 
