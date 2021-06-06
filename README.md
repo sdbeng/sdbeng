@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Happy new year!!! Hope you and your family have a wonderful and prosperous 2021 year!! 🙌
+Good News!!! I've started Concord Bootcamp meetup! 🙌
 
 ** 03-2021: Currently working on a nextjs e-commerce application 📐
 
