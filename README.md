@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-Good News!!! I've started Concord Bootcamp meetup! 🙌
+** 07-2021: Happy Summer!!! I'm currently working on Full Stack App with NodeJS and mongoDB
 
-** 03-2021: Currently working on a nextjs e-commerce application 📐
+Good News!!! I've started Concord Bootcamp meetup! Check out my linkedin profile and come join us 🙌
 
-** 01-02-2021: Got started on my very own #60daysofswiftuicode!! ** 🚀
+** 03-2021: WIP on a nextjs e-commerce application 📐
+
+** 01-02-2021: Work done #60daysofswiftuicode!! ** 🚀
 
 Join me on this journey and get started or continue learning SwiftUI. The plan is to publish an App to the App Store, you're more than welcome to code with us!! 👍
 
