@@ -2,7 +2,7 @@
 
 ** 07-2021: Happy Summer!!! I'm currently working on Full Stack App with NodeJS and mongoDB
 
-Good News!!! I've started Concord Bootcamp meetup! Check out my linkedin profile and come join us 🙌
+Good News!!! I've started Concord Bootcamp meetup! We will start our Wednesday meetings on 7-28-2021, check out my linkedin profile and come join us!! 🙌
 
 ** 03-2021: WIP on a nextjs e-commerce application 📐
 
