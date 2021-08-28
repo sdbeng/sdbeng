@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-** 08-2021: Hey there! Hope you're having a happy Summer. I've decided to learn(and hack) more with open source software. Currently working on CLI apps with NodeJS and trying to automate some tasks and access resources in a diff way.
+** 08-2021: Hey there! Hope you're having a happy Summer. I've decided to learn(and hack) more with open source software. Currently working on CLI apps with NodeJS and trying to automate some tasks and access resources in a different way.
 
 Good News!!! I've started Concord Bootcamp meetup! We will start our Wednesday meetings on 7-28-2021, check out my linkedin profile and come join us!! 🙌
 
