@@ -2,16 +2,13 @@
 
 ** 08-2021: Hi everybody! It's the beggining of a new season, happy fall!.
 
-Good News!!! I while ago I started Concord Bootcamp meetup. Started meetings on 7-28-2021, then I had to move up to a different day due to a FS project. Go ahead, check out my linkedin profile, and come join us!! It's great to build and serve our own communities and share our knowledge  🙌
+📫 Good News!!! I'm working as FS Dev with a team of React and Back end developers.
+
+On pause- Concord Bootcamp meetup. Started meetings on 7-28-2021, I had to move up to a different day due to a FS project. Go ahead, check out my linkedin profile, and come join us!! It's great to build and serve our own communities and share our knowledge  🙌
 
 ** 03-2021: WIP on a nextjs e-commerce application 📐
 
-** 01-02-2021: Work done #60daysofswiftuicode!! ** 🚀
-
-Join me on this journey and get started or continue learning SwiftUI. The plan is to publish an App to the App Store, you're more than welcome to code with us!! 👍
-
-- 🌱 While I redesign my web site, I get to work on iOS iPhone Apps.
-- 📫 I'm ready to help build your first API (Django, Node, Flask) and get you started connecting your apps with a database connection. Reach me at https://twitter.com/sergb_appdev
+** 🌱 01-02-2021: Work done #60daysofswiftuicode!! ** 🚀
 - 💬 On the weekends, I like to spend time with my wife, daugther and son, play a few games of chess, go for walks and play with our little husky 🐾
 
 ### React
