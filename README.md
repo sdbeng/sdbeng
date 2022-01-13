@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-** 08-2021: Hi everybody! It's the beggining of a new season, happy fall!.
+** 01-2022: Happy New Year! May God keep you all families safe and healthy. 
 
 📫 Good News!!! I'm working as FS Dev with a team of React and Back end developers.
-
-On pause- Concord Bootcamp meetup. Started meetings on 7-28-2021, I had to move up to a different day due to a FS project. Go ahead, check out my linkedin profile, and come join us!! It's great to build and serve our own communities and share our knowledge  🙌
 
 ** 03-2021: WIP on a nextjs e-commerce application 📐
 
