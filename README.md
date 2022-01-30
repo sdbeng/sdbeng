@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-** 01-2022: Happy New Year! May God keep you all families safe and healthy. 
+** 01-2022: Happy New Year! May God keep you and all families safe and healthy. 
 
 📫 Good News!!! I'm working as FS Dev with a team of React and Back end developers.
 
