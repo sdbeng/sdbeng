@@ -5,6 +5,7 @@
 📫 Good News!!! I'm working as FS Dev with a team of React and Back end developers.
 
 ** 03-2021: WIP on a nextjs e-commerce application 📐
+** 10-01-2022: Wed, Sa & Su: 🏊‍♂️
 
 ** 🌱 01-02-2021: Work done #60daysofswiftuicode!! ** 🚀
 - 💬 On the weekends, I like to spend time with my wife, daugther and son, play a few games of chess, go for walks and play with our little husky 🐾
