@@ -3,8 +3,10 @@
 ** 01-2022: Happy New Year! May God keep you and all families safe and healthy. 
 
 📫 Good News!!! I'm working as FS Dev with a team of React and Back end developers.
- ** 10-01-2022: Wed, Sa & Su: 🏊‍
-** 10-28-2022:♂ building, reading docs about the new nextjsv13 api, it has a prety good DX!! Can't wait to refactor some of the react projects.
+
+** 10-01-2022: Wed, Sa & Su: 🏊‍
+ 
+📐 10-28-2022:♂ building, reading docs about the new nextjsv13 api, it has a prety good DX!! Can't wait to refactor some of the react projects.
 
 ** 🌱 01-02-2021: Work done #60daysofswiftuicode!! ** 🚀
 - 💬 On the weekends, I like to spend time with my wife, daugther and son, play a few games of chess, go for walks and play with our little husky 🐾
