@@ -6,7 +6,7 @@
 
 ** 10-01-2022: Wed, Sa & Su: 🏊‍
  
-📐 10-28-2022:♂ building, reading docs about the new nextjsv13 api, it has a pretty good DX!! Can't wait to refactor some of the react projects.
+📐 08-24-2023:♂ Taking a lot of mini breaks, continue reading docs about nextjs13 changes, and planning to build a new project soon.
 
 ** 🌱 01-02-2021: Work done #60daysofswiftuicode!! ** 🚀
 - 💬 On the weekends, I like to spend time with my wife, daugther and son, play a few games of chess, go for walks and play with our little husky 🐾
