@@ -2,9 +2,9 @@
 
 ** Happy almost Spring! May God keep you and your family safe and healthy.
 
-📫 Currently working on Spring Web Security project. stack: React.js, SpringBoot. Thank God for this opportunity and future ones.
+📫 Currently working on Data Multitier JPA and Spring Web Security microservices project. stack: React.js, SpringBoot. Thank God for this opportunity and future ones.
  
-📐 2024:♂ Taking walks evry day helps me out refocus and think on tasks to have a better approach. Continue reading docs about nextjs14 changes, and now building an ai-saas project. Grabbed the new Xcode and SwiftUi, reading the docs and building a project. It looks great so far.
+📐 2024:♂ Taking walks every day helps me out refocus and think on tasks to have a better approach. Continue reading docs about nextjs14 changes, and now building an ai-saas project. Grabbed the new Xcode and SwiftUi, reading the docs and building a project. It looks great so far.
 
 - 💬 On the weekends, I like to spend time with my wife, daugther and son, especially when we go on camping vacation. We usually play a few games of chess and tennis, go for walks and play with our husky 🐾
 
