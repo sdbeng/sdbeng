@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-** Happy almost Spring! May God keep you and your family safe and healthy.
+** Happy Spring! May God keep you and your family safe and healthy.
 
 📫 Just finished a Spring Boot application with ci/cd on a docker-jenkins pipeline, using JPA and Spring Web Security on a microservices project. Stack: React.js, SpringBoot, AWS EC2, Jenkins, Tomcat server. Got the Java Back end certifcate. Thank God for this opportunity and future ones.
  
