@@ -2,7 +2,7 @@
 
 ** Happy almost Spring! May God keep you and your family safe and healthy.
 
-📫 Just finished a Spring Boot application with ci/cd on a docker-jenkins pipeline, using JPA and Spring Web Security on a microservices project. Stack: React.js, SpringBoot, AWS EC2, Jenkins, Tomcat server. Thank God for this opportunity and future ones.
+📫 Just finished a Spring Boot application with ci/cd on a docker-jenkins pipeline, using JPA and Spring Web Security on a microservices project. Stack: React.js, SpringBoot, AWS EC2, Jenkins, Tomcat server. Got the Java Back end certifcate. Thank God for this opportunity and future ones.
  
 📐 2024:♂ Taking walks every day helps to out refocus and think on tasks to have a better approach. Continue reading docs about nextjs14 changes, and now building an ai-saas project. Grabbed the new Xcode and SwiftUi, reading the docs and building a project. It looks great so far.
 
