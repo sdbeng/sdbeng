@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-** Happy Spring! May God keep you and your family safe and healthy.
+** Happy Summer! May God keep you and your family safe and healthy.
 
 📐 2024: Built Azure DevOps Kubernetes Cluster - Java Microservices Ecommerce Project
 
