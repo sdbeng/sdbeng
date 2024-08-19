@@ -2,10 +2,11 @@
 
 ** Happy Summer! May God keep you and your family safe and healthy.
 
-📐 Ongoing Work: 
+📐 Ongoing Work:
+- Jobs Community Project Full STack Web Application - React Server Components, Server Actions, PostgreSQL, Neon DB, Prisma ORM
 - Q&A secure dashboard SaaS application with next.js - Full stack Project 
 - Built Azure DevOps Kubernetes Cluster - Java Microservices Ecommerce Project
-- Spring Boot X1 application(N): JPA, RDBMS 
+- Spring Boot Kafka Back end application: JPA, RDBMS 
 
 📫 Built a Spring Boot back end application with ci/cd on a docker-jenkins pipeline, using JPA and Spring Web Security on a microservices project. Stack: React.js, SpringBoot, AWS EC2, Jenkins, Tomcat server. Got the Java Back end certificate. Thank God for this opportunity and future ones.
  
