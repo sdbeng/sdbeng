@@ -3,7 +3,8 @@
 ** Happy Summer! May God keep you and your family safe and healthy.
 
 📐 Ongoing Work:
-- Jobs Community Project Full STack Web Application - React Server Components, Server Actions, PostgreSQL, Neon DB, Prisma ORM
+- **RAG Hackaton** - building Langchain, Langchain4j applications
+- Jobs Community Project Full STack Web Application - React Server Components, Server Actions, PostgreSQL, neonDB, Prisma ORM
 - Q&A secure dashboard SaaS application with next.js - Full stack Project 
 - Built Azure DevOps Kubernetes Cluster - Java Microservices Ecommerce Project
 - Spring Boot Kafka Back end application: JPA, RDBMS 
