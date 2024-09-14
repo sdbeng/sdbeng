@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-** Happy Summer! May God keep you and your family safe and healthy.
+** Happy Fall! May God keep you and your family safe and healthy.
+
+Would you like to discuss your next project? I'll be happy to hear about it. Let's schedule a call or meet with me: [https://cal.com/sergdb24]
 
 📐 Ongoing Work:
 - **RAG Hackaton** - building Langchain, Langchain4j applications
