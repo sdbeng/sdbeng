@@ -2,6 +2,10 @@
 
 ** Happy Fall! May God keep you and your family safe and healthy.
 
+Great news! Started working on a few OS projects to contribute to the community for Hacktober fest 2024 event.
+[![An image of @sdb23's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sdb23)](https://holopin.io/@sdb23)
+
+
 Would you like to discuss your next project? I'll be happy to hear about it. Let's schedule a call or meet with me: [https://cal.com/sergdb24]
 
 📐 Work:
