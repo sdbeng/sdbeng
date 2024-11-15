@@ -9,6 +9,7 @@ Great news! Started working on a few OS projects to contribute to the community 
 Would you like to discuss your next project? I'll be happy to hear about it. Let's schedule a call or meet with me: [https://cal.com/sergdb24]
 
 📐 Work:
+- Xcode v16 app with SwiftUI framework, updates wip
 - Scheduler App - Interactive event calendar selection to allow users book their date and times either for work or volunteer hours.
 - Jobs Community Project Full STack Web Application - React Server Components, Server Actions, PostgreSQL, neonDB, Prisma ORM
 - Q&A secure dashboard SaaS application with next.js - Full stack Project 
