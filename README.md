@@ -23,7 +23,7 @@ Would you like to discuss your next web or mobile application project? I'll be h
 
 📫 Built a Spring Boot back end application with ci/cd on a docker-jenkins pipeline, using JPA and Spring Web Security on a microservices project. Stack: React.js, SpringBoot, AWS EC2, Jenkins, Tomcat server. Thank God for this opportunity and future ones.
  
-📐 2024:♂ Taking walks every day helps out refocus on tasks and have a better approach.
+📐 2025:♂ Hackathons hands-on: signup, build apps to collaborate with open source and build up skills. Taking walks every day helps out refocus on tasks, have a better approach when brainstorming, confidence when testing potencial solutions.
 
 - 💬 On the weekends, I like to spend time with my family, go for walks and play with our husky 🐾
 
