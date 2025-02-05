@@ -7,9 +7,6 @@ Happy Holidays to you and your family! Happy 2025!🎉
 - Worked on a few Open Source projects to contribute to the community for Hacktober fest 2024 event.
 [![An image of @sdb23's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sdb23)](https://holopin.io/@sdb23)
 
-
-Would you like to discuss your next web or mobile application project? I'll be happy to hear about it. Let's schedule a call and meet with me: [https://cal.com/sergdb24]
-
 📐 Work:
 - Implementing a serverless full stack app with lambda, and other aws services
 - Xcode v16 app with SwiftUI framework, updates wip
