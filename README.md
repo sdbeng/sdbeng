@@ -2,7 +2,7 @@
 
 ** Good morning! How is your day going? I hope you have the best time today. May God keep you and your family safe and healthy.
 
-Happy Holidays to you and your family! Happy 2025!🎉
+Happy 2025!🎉
 
 - Worked on a few Open Source projects to contribute to the community for Hacktober fest 2024 event.
 [![An image of @sdb23's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sdb23)](https://holopin.io/@sdb23)
