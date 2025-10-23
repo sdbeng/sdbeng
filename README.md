@@ -4,6 +4,8 @@
 
 Happy 2025!🎉
 
+- Building an interactive  dashboard to test new nextjsv16 features and integrate with advanced tools to benefit the user community.  
+
 - Worked on a few Open Source projects to contribute to the community for Hacktober fest 2024 event.
 
 📐 Work:
