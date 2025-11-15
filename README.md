@@ -4,11 +4,12 @@
 
 Happy 2025!🎉
 
-- Building an interactive  dashboard to test new nextjsv16 features and integrate with advanced tools to benefit the user community.  
+- Building an interactive dashboard to test new nextjsv16 features and integrate with advanced tools to benefit the user community.  
 
 - Worked on a few Open Source projects to contribute to the community for Hacktober fest 2024 event.
 
 📐 Work:
+- Reading documentation, setting up local env var, building TypeScript full stack app sdkv5
 - Implementing a serverless full stack app with lambda, and other aws services
 - Xcode v16 app with SwiftUI framework, updates wip
 - Scheduler App - Interactive event calendar selection to allow users book their date and times either for work or volunteer hours.
