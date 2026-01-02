@@ -21,6 +21,7 @@ Happy 2026!! 🎉
 - React Native Ai chat App > FastAPI back end (use latest RN 0.76 release)
 
 📫 Built a Spring Boot back end application with ci/cd on a docker-jenkins pipeline, using JPA and Spring Web Security on a microservices project. Stack: React.js, SpringBoot, AWS EC2, Jenkins, Tomcat server. Thank God for this opportunity and future ones.
+📐 2026:♂ Setup a Linux server with ansible and ci/cd pipeline - started 100 day DevOps Labs @@@ 
  
 📐 2025:♂ Hackathons hands-on: signup, build apps to collaborate with open source and build up skills. Taking walks every day helps out refocus on tasks, have a better approach when brainstorming, confidence when testing potencial solutions.
 
