@@ -26,23 +26,8 @@ Happy 2026!! 🎉
 📐 2025:♂ Hackathons hands-on: signup, build apps to collaborate with open source and build up skills. Taking walks every day helps out refocus on tasks, have a better approach when brainstorming, confidence when testing potencial solutions.
 
 - 💬 On the weekends, I like to spend time with my family, go for walks and play with our husky 🐾
-
-### React
-
-- [React docs](https://reactjs.org/docs/getting-started.html)
-
-### HTML
-
-- [Semantic HTML](https://internetingishard.com/html-and-css/semantic-html/)
-
-### CSS
-
-- [How To Learn CSS](https://www.smashingmagazine.com/2019/01/how-to-learn-css/)
-
 <!--
 **sdbeng/sdbeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
