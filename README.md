@@ -1,8 +1,8 @@
 ## Hi there, I'm Serg! 👋
 
-** Good morning! How is your day going? I hope you have the best time today. May God keep you and your family safe and healthy.
+** Good morning! How is your day going? I hope you have the best of time today. May God keep you and your family safe and healthy.
 
-Happy 2025!🎉
+Happy 2026!! 🎉
 
 - Building an interactive dashboard to test new nextjsv16 features and integrate with advanced tools to benefit the user community.  
 
