@@ -11,7 +11,7 @@ Happy 2026!! 🎉
 📐 Work:
 - Reading documentation, setting up local env var, building TypeScript full stack app sdkv5
 - Implementing a serverless full stack app with lambda, and other aws services
-- Xcode v16 app with SwiftUI framework, updates wip
+- Xcode v16 app with SwiftUI framework
 - Scheduler App - Interactive event calendar selection to allow users book their date and times either for work or volunteer hours.
 - Jobs Community Project Full STack Web Application - React Server Components, Server Actions, PostgreSQL, neonDB, Prisma ORM
 - Q&A secure dashboard SaaS application with next.js - Full stack Project 
