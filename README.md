@@ -9,22 +9,17 @@ Happy 2026!! 🎉
 - Worked on a few Open Source projects to contribute to the community for Hacktober fest 2024 event.
 
 📐 Work:
-- Reading documentation, setting up local env var, building TypeScript full stack app sdkv5
-- Implementing a serverless full stack app with lambda, and other aws services
-- Xcode v16 app with SwiftUI framework
 - Scheduler App - Interactive event calendar selection to allow users book their date and times either for work or volunteer hours.
 - Jobs Community Project Full STack Web Application - React Server Components, Server Actions, PostgreSQL, neonDB, Prisma ORM
-- Q&A secure dashboard SaaS application with next.js - Full stack Project 
 - Built Azure DevOps Kubernetes Cluster - Java Microservices Ecommerce Project
-- Spring Boot Kafka Back end application: JPA, RDBMS
 - Spring Boot microservices project - Manufactoring company
-- React Native Ai chat App > FastAPI back end (use latest RN 0.76 release)
+- React frontend, FastAPI backend
 
 📫 Built a Spring Boot back end application with ci/cd on a docker-jenkins pipeline, using JPA and Spring Web Security on a microservices project. Stack: React.js, SpringBoot, AWS EC2, Jenkins, Tomcat server. Thank God for this opportunity and future ones.
 
-📐 2026:♂ Setup a Linux server with ansible and a ci/cd pipeline, docker, GitLab, Github actions, K8s - started 100 day DevOps Labs @@@ 
+📐 2026:♂ Setup a Linux server with ansible and a ci/cd pipeline, docker, GitLab, Github actions, K8s - started 100 day DevOps Labs @@@KK 
  
-📐 2025:♂ Hackathons hands-on: signup, build apps to collaborate with open source and build up skills. Taking walks every day helps out refocus on tasks, have a better approach when brainstorming, confidence when testing potencial solutions.
+📐 2025:♂ Hackathons hands-on: signup, build apps to collaborate with open source and build up skills.
 
 - 💬 On the weekends, I like to spend time with my family, go for walks and play with our husky 🐾
 <!--
