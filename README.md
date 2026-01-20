@@ -4,9 +4,7 @@
 
 Happy 2026!! 🎉
 
-- Building an interactive dashboard to test new nextjsv16 features and integrate with advanced tools to benefit the user community.  
-
-- Worked on a few Open Source projects to contribute to the community for Hacktober fest 2024 event.
+- Building an interactive dashboard w/ nextjsv16 and integrate it with advanced auth tools to benefit the user community.
 
 📐 Work:
 - Scheduler App - Interactive event calendar selection to allow users book their date and times either for work or volunteer hours.
