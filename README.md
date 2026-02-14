@@ -2,8 +2,6 @@
 
 ** Good morning! How is your day going? I hope you have the best of time today. May God keep you and your family safe and healthy.
 
-Happy 2026!! 🎉
-
 - Building an interactive dashboard w/ nextjsv16 and integrate it with advanced auth tools to benefit the user community.
 
 📐 Work:
@@ -15,9 +13,7 @@ Happy 2026!! 🎉
 
 📫 Built a Spring Boot back end application with ci/cd on a docker-jenkins pipeline, using JPA and Spring Web Security on a microservices project. Stack: React.js, SpringBoot, AWS EC2, Jenkins, Tomcat server. Thank God for this opportunity and future ones.
 
-📐 2026:♂ Setup a Linux server with ansible and a ci/cd pipeline, docker, GitLab, Github actions, K8s - started 100 day DevOps Labs @@@KK 
- 
-📐 2025:♂ Hackathons hands-on: signup, build apps to collaborate with open source and build up skills.
+📐 2026:♂ Setup a Linux server with ansible and a ci/cd pipeline, docker, GitLab, Github actions, K8s - started 100 day DevOps Labs
 
 - 💬 On the weekends, I like to spend time with my family, go for walks and play with our husky 🐾
 <!--
