@@ -2,7 +2,7 @@
 
 ** Good morning! How is your day going? I hope you have the best of time today. May God keep you and your family safe and healthy.
 
-- Building an interactive dashboard w/ nextjsv16 and integrate it with advanced auth tools to benefit the user community.
+- Startup: West AI Engineering. More info soon.
 
 📐 Work:
 - Scheduler App - Interactive event calendar selection to allow users book their date and times either for work or volunteer hours.
