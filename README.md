@@ -2,7 +2,7 @@
 
 ** Good morning! How is your day going? I hope you have the best of time today. May God keep you and your family safe and healthy.
 
-- Startup: West AI Engineering. More info soon.
+- West AI Engineering.
 
 📐 Work:
 - Scheduler App - Interactive event calendar selection to allow users book their date and times either for work or volunteer hours.
