@@ -1,8 +1,8 @@
 ## Hi there, I'm Serg! 👋
 
-** Good day! How is your day going? I hope you have the best of time today. May God keep you and your family safe and healthy.
+** Good day! How is your day going? I hope you have the best of time today. May God keep you, your family safe and healthy.
 
-- Building iOS apps as side projects for fun, loving the new Xcode27, brushing up the new APIs. Planning cool app, tracking your exercise, health, coming up soon! 🚲
+- Building iOS apps as side projects for fun, loving the new Xcode27, brushing up the new APIs. Planning college app, and a bike app tracking your daily exercise & health, coming up soon! 🚲
 
 - West AI Engineering. Building Agents. Helping the the community, integrating AI to solve everyday struggles in healthcare, insurance, education, and finance. Working on a special project that I think it benefits and impacts a lot of people on a vital resource that we all care. I really like my dev UI team and look forward to keep being an active contributor, supportive and helpful on anything to reach goals, acomplish success.
 
