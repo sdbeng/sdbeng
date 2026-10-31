@@ -13,7 +13,7 @@
 - Spring Boot microservices project - Tracker app
 - React frontend, FastAPI backend
 
-📫 Built a Spring Boot back end application with ci/cd on a docker-jenkins pipeline, using JPA and Spring Web Security on a microservices project. Stack: React.js, SpringBoot, AWS EC2, Jenkins, Tomcat server. Thank God for this opportunity and future ones.
+📫 Built a Spring Boot back end application with ci/cd on a docker-jenkins pipeline, using JPA and Spring Web Security on a microservices project. Stack: React.js, SpringBoot, AWS EC2, Jenkins, Tomcat server. Observability tools(Splunk) .Thank God for this opportunity and future ones.
 
 📐 2026:♂ Setup a Linux server with ansible and a ci/cd pipeline, docker, GitLab, Github actions, K8s - started 100 day DevOps Labs
 
